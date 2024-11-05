@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Rashad Khan!
 
 **🚀 Full-Stack Developer | Laravel Wizard | API Whisperer**  
-📍 _New Delhi, India_ | 🌐 [rashadkhan.dev](#) | ✉️ [rashadkhan359@gmail.com](mailto:rashadkhan359@gmail.com)
+📍 _New Delhi, India_ | ✉️ [rashadkhan359@gmail.com](mailto:rashadkhan359@gmail.com) | 🌐 [Coming Soon](#) 
 
 ---
 
@@ -24,7 +24,7 @@ Databases:
   - MySQL, MongoDB, Redis (for when my data needs speed)
 Cloud & DevOps: 
   - AWS, Docker, Hostinger, CI/CD, GitHub
-
+```
 
 
 ## 👨‍💻 What I’m Currently Up To:
@@ -32,3 +32,9 @@ Cloud & DevOps:
   - Building cool stuff with React, Tailwind, and Laravel, because who doesn’t love a good front-end/back-end combo?
   - Mentoring interns and interviewing candidates—because sharing knowledge is caring 🤓.
   - Always optimizing codebases and hunting for performance bottlenecks like a code detective 🕵️‍♂️.
+
+## 🌱 Fun Facts About Me
+- I might secretly be powered by tea ☕.
+- My brain thinks therefore I'm 🧠.
+- When I’m not coding, you’ll probably find me binge-watching tech videos, astronomy, or optimizing something in real life too.
+- Yes, I do code dreams. Don’t ask.
