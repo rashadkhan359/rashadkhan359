@@ -15,6 +15,7 @@ I love the challenge of turning business problems into elegant tech solutions. A
 
 ## 🔥 Things I Work With
 
+```yaml
 Front-End: 
   - JavaScript (ES6+), React (Vite), Laravel Livewire, Tailwind CSS, Bootstrap
 Back-End: 
