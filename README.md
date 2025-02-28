@@ -7,7 +7,7 @@
 
 ## Who Am I?
 
-I'm a curious, coffee-powered developer with a passion for **building clean, efficient, and scalable web apps**. By day, I lead the development of dynamic, high-performing Laravel projects, and by night, you might catch me tinkering with APIs, learning new technologies, or getting lost in code refactors. ✨
+I'm a curious, tea-powered developer with a passion for **building clean, efficient, and scalable web apps**. By day, I lead the development of dynamic, high-performing Laravel projects, and by night, you might catch me tinkering with APIs, learning new technologies, or getting lost in code refactors. ✨
 
 I love the challenge of turning business problems into elegant tech solutions. Also, **bugs** are just my way of having _extra_ fun in the debugging universe 🐛🚀.
 
