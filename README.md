@@ -38,3 +38,5 @@ Cloud & DevOps:
 - My brain thinks therefore I'm 🧠.
 - When I’m not coding, you’ll probably find me binge-watching tech videos, astronomy, or optimizing something in real life too.
 - Yes, I do code dreams. Don’t ask.
+
+[https://github-readme-stats.vercel.app/api?username=rashadkhan359&show_icons=true&theme=radical]
