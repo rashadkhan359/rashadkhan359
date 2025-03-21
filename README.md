@@ -40,4 +40,5 @@ Cloud & DevOps:
 - Yes, I do code dreams. Don’t ask.
 
 ## 📊 Analytics
-![Rashad's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashadkhan359&show_icons=true&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashadkhan359&theme=vue-dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=rashadkhan359&show_icons=true&theme=radical)
